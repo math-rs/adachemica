@@ -19,7 +19,6 @@
 <p align="center">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blue.svg">
-  <img alt="Status" src="https://img.shields.io/badge/status-publication--ready-6aa84f.svg">
 </p>
 
 <hr>
